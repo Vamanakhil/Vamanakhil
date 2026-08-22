@@ -5,7 +5,7 @@
   <text x="20" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c9d1d9">PHP</text>
   <text x="360" y="40" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">72%</text>
   <rect x="20" y="46" width="340" height="3" rx="1.5" fill="#21262d"/>
-  <rect x="20" y="46" width="231.9" height="3" rx="1.5" fill="#4F5D95"/>
+  <rect x="20" y="46" width="231.8" height="3" rx="1.5" fill="#4F5D95"/>
   <text x="20" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c9d1d9">JavaScript</text>
   <text x="360" y="74" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">13%</text>
   <rect x="20" y="80" width="340" height="3" rx="1.5" fill="#21262d"/>
@@ -13,7 +13,7 @@
   <text x="20" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c9d1d9">Python</text>
   <text x="360" y="108" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">5%</text>
   <rect x="20" y="114" width="340" height="3" rx="1.5" fill="#21262d"/>
-  <rect x="20" y="114" width="32.3" height="3" rx="1.5" fill="#3572A5"/>
+  <rect x="20" y="114" width="32.4" height="3" rx="1.5" fill="#3572A5"/>
   <text x="20" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c9d1d9">Gherkin</text>
   <text x="360" y="142" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">3%</text>
   <rect x="20" y="148" width="340" height="3" rx="1.5" fill="#21262d"/>
