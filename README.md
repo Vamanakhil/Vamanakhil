@@ -18,19 +18,16 @@ Open source is not a licensing model to me. It is a way of keeping software
 </tr>
 </table>
 
+## Now
 
+- **[agent-skills](https://github.com/Vamanakhil/agent-skills)** — portable agent skills for opencode & Claude Code, including a Moodle plugin security auditor.
+- **[worklie](https://github.com/Vamanakhil/worklie)** — local-first CLI that turns terminal history and git logs into standup reports.
+- **[kinetiq](https://github.com/Vamanakhil/kinetiq)** — AI-native technical media engine: one idea in, branded technical short out.
 
-<br>
+## Open source
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-  <img src="assets/cards/metric-repos.svg" alt="repositories">
-  <img src="assets/cards/metric-commits.svg" alt="commits">
-  <img src="assets/cards/metric-mergerate.svg" alt="merge rate">
-  <img src="assets/cards/metric-issues.svg" alt="issues closed">
-</div>
+I build in the open with [Swecha](https://swecha.org), part of the Free Software Movement of India. If it isn't inspectable, it isn't finished.
 
-<div align="center">
-  <img src="assets/cards/metric-loc.svg" alt="lines of code" style="max-width:440px; width:100%;">
-</div>
+## Reach me
 
-
+[LinkedIn](https://www.linkedin.com/in/vaman-akhil-b47604243) — always happy to talk FOSS, Moodle, and systems work.
